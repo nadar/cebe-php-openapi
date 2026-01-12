@@ -1,5 +1,5 @@
 {
-	"name": "cebe/php-openapi",
+	"name": "lackovic10/cebe-php-openapi",
 	"description": "Read and write OpenAPI yaml/json files and make the content accessable in PHP objects.",
 	"keywords": ["openapi"],
 	"homepage": "https://github.com/cebe/php-openapi#readme",
@@ -14,8 +14,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/cebe/php-openapi/issues",
-		"source": "https://github.com/cebe/php-openapi"
+		"issues": "https://github.com/lackovic10/cebe-php-openapi/issues",
+		"source": "https://github.com/lackovic10/cebe-php-openapi"
 	},
 	"require": {
 		"php": ">=7.1.0",
